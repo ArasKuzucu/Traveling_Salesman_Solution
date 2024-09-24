@@ -6,7 +6,7 @@ TSP Solution
 
 ## Installation
 
-1. Clone the repository and Open the project in Unity (2022.3.21f1 or higher version).
+1. Clone the repository and Open the project in Unity (2022.3.37f1 or higher version).
 
 ## Usage
 
@@ -19,7 +19,7 @@ TSP Solution
 
 ## Technologies
 
-1. Unity Game Engine(2022.3.21f1)
+1. Unity Game Engine(2022.3.37f1)
 2. C#
 3. TextMeshPro
 4. Nature Renderer 6
