@@ -6,7 +6,7 @@ TSP Solution
 
 ## Installation
 
-1. Clone the repository and Open the project in Unity (2022.3.37f1 or higher version).
+1. Clone the repository or download zip and Open the project in Unity (2022.3.37f1 or higher version).
 
 ## Usage
 
